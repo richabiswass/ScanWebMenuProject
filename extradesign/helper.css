@@ -1,0 +1,150 @@
+.menu{
+    text-align: center;
+}
+
+.menu img{
+    height: 200px;
+    width: 200px;
+}
+
+.carousel-item {
+    transition: transform 0.6s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .box{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+
+    animation-name: fontAnimation;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: 3;
+    animation-direction: alternate;
+}
+
+.one{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+
+
+    animation-name: colorAnimate;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: 3;
+    animation-direction: normal;
+}
+
+.two{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+
+    
+    animation-name: widthAnimate;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+
+.three{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+
+    
+    animation: shorthand 2s linear 0s infinite reverse;
+}
+
+.four{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(247, 18, 56);
+
+    
+    animation: Animate 2s linear 1s 3 normal;
+}
+
+@keyframes fontAnimation{
+    from{
+        font-size:20px;
+    }
+    to{
+        font-size:40px;
+    }
+}
+
+@keyframes colorAnimate{
+    from{
+        background-color: green;
+    }
+    to{
+        background-color: blue;
+    }
+}
+
+@keyframes widthAnimate{
+    from{
+        width: 10px;
+    }
+    to{
+        width: 400px;
+    }
+}
+
+@keyframes shorthand{
+    from{
+        font-size:20px;
+        width: 10px;
+        background-color: green;
+    }
+    to{
+        font-size:40px;
+        width: 400px;
+        background-color: blue;
+    }
+}
+
+@keyframes Animate{
+    0%{
+        font-size:0px;
+    }
+    50%{
+        font-size:20px;
+    }
+    100%{
+        font-size: 100px;
+    }
+} */
